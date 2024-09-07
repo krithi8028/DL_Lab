@@ -67,6 +67,9 @@ print(f"Test accuracy: {test_acc}")
 
 ## Output:
 
+![image](https://github.com/user-attachments/assets/2bbfdc7a-a180-4e16-92c8-302a6fe5085c)
+
+
 ### Model Training:
 - The model was trained using the Adam optimizer with a sparse categorical crossentropy loss function.
 - The training process involved 10 epochs, during which the model learned to minimize the classification error.
